@@ -1,0 +1,23 @@
+.button {
+  display: inline-block;
+  border-radius: 3px;
+  text-decoration: none;
+  user-select: none;
+  padding: .7em 1.5em;
+  outline: none;
+  text-shadow: 2px 1px 3px black;
+  color: white;
+}
+
+.button-blue {
+  background: #7CBCB5;
+}
+
+.button-lightblue {
+  background: #C2E0F4;
+}
+
+.button-red {
+  margin-top: 3px;
+  background: red;
+}

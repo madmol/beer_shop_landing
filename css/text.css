@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&family=Montserrat&display=swap');
+
+body  {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.title, .subtitile, .review-title {
+  font-family: Montserrat, sans-serif;
+}
+.title {
+  font-size: 2em;
+}
+
+.subtitle, .intro-text, .text-description, .title, .review-title {
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 1.7em;
+}
+
+.review-title {
+  font-size: 1.5em;
+}
+
+.text-regular {
+  margin: 5px 0px;
+}
+
+.text-description {
+  font-size: 1.2em
+}
+
+.intro-text {
+  margin-top: 50px;
+  font-size: 2em;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+
+.intro-small-text {
+  font-size: 0.8em;
+  color: #d3d3d3;
+  max-width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+  text-shadow: 1px 1px 5px black;
+}
+
+.header-text {
+  position: absolute;
+  font-family: 'Marck Script', cursive;
+  top: 50%;
+  margin-top: -0.625em;
+}
+
+.text-center, .intro-text, .intro-small-text {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
