@@ -49,10 +49,11 @@ body  {
 }
 
 .header-text {
-  position: absolute;
+  /*position: center;*/
+  text-align: center;
   font-family: 'Marck Script', cursive;
-  top: 50%;
-  margin-top: -0.625em;
+  /*top: 50%;
+  margin-top: -0.625em;*/
 }
 
 .text-center, .intro-text, .intro-small-text {
