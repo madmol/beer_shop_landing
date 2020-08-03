@@ -5,19 +5,15 @@ body  {
   font-size: 16px;
 }
 
-.title, .subtitile, .review-title {
+.title, .review-title {
   font-family: Montserrat, sans-serif;
 }
 .title {
   font-size: 2em;
 }
 
-.subtitle, .intro-text, .text-description, .title, .review-title {
+.text-description, .title, .review-title {
   font-weight: bold;
-}
-
-.subtitle {
-  font-size: 1.7em;
 }
 
 .review-title {
@@ -28,15 +24,12 @@ body  {
   margin: 5px 0px;
 }
 
-.text-description {
-  font-size: 1.2em
+.text-white {
+  color: white;
 }
 
-.intro-text {
-  margin-top: 50px;
-  font-size: 2em;
-  color: white;
-  text-shadow: 1px 1px 2px black;
+.text-description {
+  font-size: 1.2em;
 }
 
 .intro-small-text {
@@ -48,16 +41,12 @@ body  {
   text-shadow: 1px 1px 5px black;
 }
 
-.header-text {
-  /*position: center;*/
+.text-center, .intro-small-text {
   text-align: center;
-  font-family: 'Marck Script', cursive;
-  /*top: 50%;
-  margin-top: -0.625em;*/
 }
 
-.text-center, .intro-text, .intro-small-text {
-  text-align: center;
+.text-middle {
+  margin-top: 0.1em;
 }
 
 .text-left {

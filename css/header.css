@@ -2,9 +2,9 @@
   position: fixed;
   top: 0px;
   left: 0px;
-  padding: 20px;
+  padding-bottom: 0px;
   background-color: #FFFFF7;
   width: 100%;
-  min-height: 30px;
+  min-height: 50px;
   z-index: 1;
 }
